@@ -5,7 +5,7 @@
 #include <fstream>  
 using namespace std;
 const int pnum = 34;
-const char FILENAME[32] = "a.txt";
+const char FILENAME[32] = "Release\a.txt";
 /*这个文件内是城市名称文件，评测时请您帮我将文件路径补充完整（这取决于您将下载的文件存放在哪）*/
 wstring pc[400];
 class Indexes
